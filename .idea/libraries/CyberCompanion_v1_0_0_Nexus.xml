@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CyberCompanion_v1.0.0_Nexus">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/CyberCompanion_v1.0.0_Nexus.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

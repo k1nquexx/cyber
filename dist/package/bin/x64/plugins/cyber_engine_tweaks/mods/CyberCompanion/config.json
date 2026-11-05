@@ -1,0 +1,7 @@
+{
+  "push_to_talk_key": "caps lock",
+  "voice": "ru-RU-SvetlanaNeural",
+  "tts_rate": "+15%",
+  "tts_enabled": true,
+  "sample_rate": 16000
+}
